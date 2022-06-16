@@ -167,7 +167,7 @@ You may have noticed after your commit that a message displayed indicating your 
   if users accidentally closed without merging.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Nicely done friend! :sunglasses:_
@@ -196,7 +196,7 @@ As noted in the previous step, you may have seen evidence of an action running w
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course and joined the world of developers!_
@@ -231,8 +231,6 @@ Check out these resources to learn more or get involved:
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
-hello123
-gudbye123
 -->
 
 ---
